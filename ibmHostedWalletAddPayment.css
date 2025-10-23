@@ -32,6 +32,11 @@
 	padding: 0
 }
 
+.commandButton {
+	background-color: #169a5a;
+	padding: 0px 0px;
+}
+
 .content {
 	display: -ms-flexbox;
 	display: flex;	
