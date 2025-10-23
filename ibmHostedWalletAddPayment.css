@@ -28,13 +28,12 @@
 	margin: 0
 }
 
-.instrument:not(.saved) .content {
-	padding: 0
+#continueButton.commandButton {
+  background-color: #169a5a;
 }
 
-.commandButton {
-	background-color: #005500;
-	padding: 0px 0px;
+.instrument:not(.saved) .content {
+	padding: 0
 }
 
 .content {
