@@ -175,7 +175,7 @@
 	height: 2.5rem;
 	width: 100%;
 	padding: .625rem;
-	background-color: #169a5a;
+	background-color: #169a5a !important;
 	color: #fff;
 	border-radius: 0;
 	border: none;
