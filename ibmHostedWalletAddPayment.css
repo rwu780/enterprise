@@ -192,7 +192,7 @@
 }
 
 .content .buttonHolder .commandButton:focus {
-	outline: .125rem solid #a4ceff;
+	outline: .125rem solid #169a5a;
 	outline-offset: -.125rem
 }
 
