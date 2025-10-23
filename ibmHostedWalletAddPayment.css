@@ -28,6 +28,10 @@
 	margin: 0
 }
 
+#continueButton.commandButton {
+  background-color: #169a5a;
+}
+
 .instrument:not(.saved) .content {
 	padding: 0
 }
@@ -194,10 +198,6 @@
 .content .buttonHolder .commandButton:focus {
 	outline: .125rem solid #169a5a;
 	outline-offset: -.125rem
-}
-
-#continueButton.commandButton {
-  background-color: #169a5a;
 }
 
 .content .buttonHolder .commandButton.continue {
