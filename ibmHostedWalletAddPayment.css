@@ -28,10 +28,6 @@
 	margin: 0
 }
 
-#continueButton.commandButton {
-  background-color: #169a5a;
-}
-
 .instrument:not(.saved) .content {
 	padding: 0
 }
@@ -173,7 +169,7 @@
 	bottom: auto;
 	z-index: auto;
 }
-.content .buttonHolder .commandButton {
+.content .buttonHolder .commandButton.continue {
 	font-weight: 600;
 	font-style: normal;
 	height: 2.5rem;
