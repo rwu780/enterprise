@@ -29,29 +29,22 @@
 }
 
 #paymentSelection .continueButton {
-	font-weight: 600;
+	font-size: 14px;
+	line-height: 16.8px;
+	font-weight: bold;
 	font-style: normal;
-	height: 2.5rem;
-	width: 100%;
-	padding: .625rem;
-	background-color: #169a5a;
+	background-color: #127F4A;
 	color: #fff;
 	border: none;
-	font-size: .875rem;
-	text-transform: uppercase;
-	line-height: normal;
-	transition: background-color 0.3s;
-	-webkit-appearance: none;
-	-moz-appearance: none;
 	border-radius: 800px;
 }
 
 #paymentSelection .continueButton:hover {
-	background-color: #15804d
+	background-color: #006639
 }
 
 #paymentSelection .continueButton:focus {
-	outline: .125rem solid #169a5a;
+	outline: .125rem solid #006639;
 	outline-offset: -.125rem
 }
 
