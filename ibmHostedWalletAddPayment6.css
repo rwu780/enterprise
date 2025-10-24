@@ -33,6 +33,11 @@
   border-radius: 0;
 }
 
+#paymentSelection .continueButton {
+  background-color: #169a5a;
+  border-radius: 800;
+}
+
 .instrument:not(.saved) .content {
 	padding: 0
 }
