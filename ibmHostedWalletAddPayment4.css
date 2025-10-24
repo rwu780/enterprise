@@ -169,7 +169,7 @@
 	bottom: auto;
 	z-index: auto;
 }
-.content .buttonHolder .commandButton.continue {
+.content .buttonHolder .commandButton {
 	font-weight: 600;
 	font-style: normal;
 	height: 2.5rem;
@@ -177,7 +177,7 @@
 	padding: .625rem;
 	background-color: #169a5a;
 	color: #fff;
-	border-radius: 0;
+	border-radius: 800;
 	border: none;
 	font-size: .875rem;
 	text-transform: uppercase;
