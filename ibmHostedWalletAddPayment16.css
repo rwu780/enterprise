@@ -32,7 +32,11 @@
 	background-color: #127F4A;
 	color: #fff;
 	border: none;
-	border-radius: 800px
+	border-radius: 800px;
+	font-size: 18px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
 }
 
 #paymentSelection .continueButton:hover {
