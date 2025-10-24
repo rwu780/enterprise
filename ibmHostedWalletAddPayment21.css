@@ -212,14 +212,6 @@
 	outline-offset: -.125rem
 }
 
-#continueButton.commandButton {
-  background-color: #169a5a;
-}
-
-.content .buttonHolder .commandButton.continue {
-  background-color: #169a5a;
-}
-
 .content .paymentError.error {
 	font-weight: 300;
 	font-style: normal;
