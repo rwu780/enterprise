@@ -37,6 +37,9 @@
 	color: #fff;
 	border: none;
 	border-radius: 800px;
+	display: flex;        
+  	align-items: center;    
+  	justify-content: center;
 }
 
 #paymentSelection .continueButton:hover {
