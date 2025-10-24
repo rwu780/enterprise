@@ -36,9 +36,13 @@
 	background-color: #127F4A;
 	color: #fff;
 	border: none;
+	width: 100%;
 	border-radius: 800px;
 	display: inline-block;
     vertical-align: middle;
+	transition: background-color 0.3s;
+	-webkit-appearance: none;
+	-moz-appearance: none;
 }
 
 #paymentSelection .continueButton:hover {
