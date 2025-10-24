@@ -29,8 +29,30 @@
 }
 
 #paymentSelection .continueButton {
-  background-color: #169a5a;
-  border-radius: 800px;
+	font-weight: 600;
+	font-style: normal;
+	height: 2.5rem;
+	width: 100%;
+	padding: .625rem;
+	background-color: #169a5a;
+	color: #fff;
+	border: none;
+	font-size: .875rem;
+	text-transform: uppercase;
+	line-height: normal;
+	transition: background-color 0.3s;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	border-radius: 800px;
+}
+
+#paymentSelection .continueButton:hover {
+	background-color: #15804d
+}
+
+#paymentSelection .continueButton:focus {
+	outline: .125rem solid #169a5a;
+	outline-offset: -.125rem
 }
 
 .instrument:not(.saved) .content {
